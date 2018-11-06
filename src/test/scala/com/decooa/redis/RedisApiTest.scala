@@ -1,6 +1,5 @@
 package com.decooa.redis
 
-import com.decooda.redis.RedisConnection
 import com.techmonad.redis.{RedisApi, RedisConnection}
 import org.scalatest.FunSuite
 
